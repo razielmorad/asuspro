@@ -1,0 +1,8 @@
+body{
+    background: #121FCF;
+background: radial-gradient(circle farthest-corner at center center, #121FCF 0%, #B5CF36 100%);
+
+}
+.amedia {
+    width: 50vw;
+}
